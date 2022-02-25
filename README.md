@@ -1,7 +1,7 @@
 ### Hello everybody 👋
 
-- 💻 I’m Bakyt Frontend web developer from Kyrgyzstan.
-- 🌎 I like experimenting with new technologies and building small prjects.
+- 🌎 I’m Bakyt Frontend web developer from Kyrgyzstan.
+- 💻 I like experimenting with new technologies and building small prjects.
 - 💬 Fast learner, team player.
 
 ### Technologies:

@@ -14,9 +14,7 @@
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/nodejs.svg" alt="Node" height="30" title="Node.js" /> </code>
 <code><img style="margin: 10px" src="https://api.iconify.design/vscode-icons/file-type-mongo.svg" alt="Mongo" height="30" title="MongoDB" /> </code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/sass.svg" alt="" height="30" title="" /> </code>
-<code><img style="margin: 10px" src="https://api.iconify.design/logos/sass.svg" alt="Sass" height="30" title="Sass" /> </code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/tailwindcss-icon.svg" alt="TailwindCSS" height="30" title="TailwindCSS" /> </code>
-<code><img style="margin: 10px" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="30" title="Bootstrap" /> </code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/git.svg" alt="Git" height="30" title="Git" /> </code>
 
 

@@ -7,7 +7,7 @@
 ### Technologies:
 
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30"
-title="JavaScript"</code>
+title="JavaScript" /> </code>
 
 
 
